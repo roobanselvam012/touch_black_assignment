@@ -1,0 +1,307 @@
+2025-03-29 15:52:28,226 - INFO - Executing Login test
+2025-03-29 16:02:04,114 - INFO - Browser laaunched
+2025-03-29 16:02:04,116 - INFO - Executing Login test
+2025-03-29 16:05:40,447 - INFO - Browser laaunched
+2025-03-29 16:05:40,448 - INFO - Executing Login test
+2025-03-29 16:05:40,546 - INFO - Browser Closed
+2025-03-29 16:06:41,079 - INFO - Browser laaunched
+2025-03-29 16:06:41,080 - INFO - Executing Login test
+2025-03-29 16:06:41,181 - INFO - Browser Closed
+2025-03-29 16:07:53,023 - INFO - Browser laaunched
+2025-03-29 16:07:53,024 - INFO - Executing Login test
+2025-03-29 16:07:53,147 - INFO - Browser Closed
+2025-03-29 16:08:38,627 - INFO - Browser laaunched
+2025-03-29 16:08:38,628 - INFO - Executing Login test
+2025-03-29 16:08:38,762 - INFO - Browser Closed
+2025-03-29 16:11:38,246 - INFO - Browser laaunched
+2025-03-29 16:11:38,247 - INFO - Executing Login test
+2025-03-29 16:11:48,851 - INFO - Browser Closed
+2025-03-29 16:13:32,527 - INFO - Browser laaunched
+2025-03-29 16:13:32,528 - INFO - Executing Login test
+2025-03-29 16:13:43,143 - INFO - Browser Closed
+2025-03-29 16:14:43,497 - INFO - Browser laaunched
+2025-03-29 16:14:43,498 - INFO - Executing Login test
+2025-03-29 16:14:43,617 - INFO - Browser Closed
+2025-03-29 16:15:15,227 - INFO - Browser laaunched
+2025-03-29 16:15:15,228 - INFO - Executing Login test
+2025-03-29 16:15:25,859 - INFO - Browser Closed
+2025-03-29 16:17:08,638 - INFO - Browser laaunched
+2025-03-29 16:17:08,639 - INFO - Executing Login test
+2025-03-29 16:17:09,402 - INFO - Browser Closed
+2025-03-29 16:18:15,988 - INFO - Browser laaunched
+2025-03-29 16:18:15,989 - INFO - Executing Login test
+2025-03-29 16:18:16,897 - INFO - Browser Closed
+2025-03-29 16:18:53,036 - INFO - Browser laaunched
+2025-03-29 16:18:53,037 - INFO - Executing Login test
+2025-03-29 16:18:55,403 - INFO - Browser Closed
+2025-03-29 16:20:18,701 - INFO - Browser laaunched
+2025-03-29 16:20:18,702 - INFO - Executing Login test
+2025-03-29 16:20:21,037 - INFO - Login Test Passed
+2025-03-29 16:20:21,101 - INFO - Browser Closed
+2025-03-31 12:39:07,494 - INFO - Browser laaunched
+2025-03-31 12:39:07,495 - INFO - Executing Login test
+2025-03-31 12:39:11,248 - INFO - Login Test Passed
+2025-03-31 12:39:11,305 - INFO - Browser Closed
+2025-03-31 12:39:12,827 - INFO - Browser laaunched
+2025-03-31 12:39:12,828 - INFO - Executing invalid login test
+2025-03-31 12:39:16,547 - INFO - Browser Closed
+2025-03-31 12:40:55,480 - INFO - Browser laaunched
+2025-03-31 12:40:55,481 - INFO - Executing Login test
+2025-03-31 12:41:04,805 - INFO - Login Test Passed
+2025-03-31 12:41:04,862 - INFO - Browser Closed
+2025-03-31 12:41:06,489 - INFO - Browser laaunched
+2025-03-31 12:41:06,490 - INFO - Executing invalid login test
+2025-03-31 12:41:08,198 - INFO - Browser Closed
+2025-03-31 12:43:05,022 - INFO - Browser laaunched
+2025-03-31 12:43:05,023 - INFO - Executing Login test
+2025-03-31 12:43:08,664 - INFO - Login Test Passed
+2025-03-31 12:43:08,720 - INFO - Browser Closed
+2025-03-31 12:43:09,911 - INFO - Browser laaunched
+2025-03-31 12:43:09,911 - INFO - Executing invalid login test
+2025-03-31 12:43:11,605 - INFO - Browser Closed
+2025-03-31 12:43:45,271 - INFO - Browser laaunched
+2025-03-31 12:43:45,272 - INFO - Executing Login test
+2025-03-31 12:43:48,000 - INFO - Login Test Passed
+2025-03-31 12:43:48,056 - INFO - Browser Closed
+2025-03-31 12:43:49,505 - INFO - Browser laaunched
+2025-03-31 12:43:49,506 - INFO - Executing invalid login test
+2025-03-31 12:43:51,103 - INFO - Invalid login test Passed
+2025-03-31 12:43:51,159 - INFO - Browser Closed
+2025-03-31 19:14:02,476 - INFO - Browser laaunched
+2025-03-31 19:14:02,477 - INFO - Executing Login test
+2025-03-31 19:14:05,302 - INFO - Login Test Passed
+2025-03-31 19:14:05,363 - INFO - Browser Closed
+2025-03-31 19:14:06,734 - INFO - Browser laaunched
+2025-03-31 19:14:06,735 - INFO - Executing invalid login test
+2025-03-31 19:14:08,432 - INFO - Invalid login test Passed
+2025-03-31 19:14:08,494 - INFO - Browser Closed
+2025-03-31 19:14:10,107 - INFO - Browser laaunched
+2025-03-31 19:14:10,108 - INFO - executing existing user signup
+2025-03-31 19:14:10,907 - INFO - Browser Closed
+2025-03-31 19:15:54,988 - INFO - Browser laaunched
+2025-03-31 19:15:54,990 - INFO - Executing Login test
+2025-03-31 19:15:57,287 - INFO - Login Test Passed
+2025-03-31 19:15:57,347 - INFO - Browser Closed
+2025-03-31 19:15:58,649 - INFO - Browser laaunched
+2025-03-31 19:15:58,650 - INFO - Executing invalid login test
+2025-03-31 19:16:00,427 - INFO - Invalid login test Passed
+2025-03-31 19:16:00,489 - INFO - Browser Closed
+2025-03-31 19:16:02,051 - INFO - Browser laaunched
+2025-03-31 19:16:02,052 - INFO - executing existing user signup
+2025-03-31 19:16:02,811 - INFO - Browser Closed
+2025-03-31 19:19:04,961 - INFO - Browser laaunched
+2025-03-31 19:19:04,962 - INFO - Executing Login test
+2025-03-31 19:19:07,816 - INFO - Login Test Passed
+2025-03-31 19:19:07,877 - INFO - Browser Closed
+2025-03-31 19:19:09,681 - INFO - Browser laaunched
+2025-03-31 19:19:09,681 - INFO - Executing invalid login test
+2025-03-31 19:19:11,381 - INFO - Invalid login test Passed
+2025-03-31 19:19:11,443 - INFO - Browser Closed
+2025-03-31 19:19:13,189 - INFO - Browser laaunched
+2025-03-31 19:19:13,190 - INFO - executing existing user signup
+2025-03-31 19:19:13,944 - INFO - Browser Closed
+2025-03-31 19:21:11,719 - INFO - Browser laaunched
+2025-03-31 19:21:11,720 - INFO - Executing Login test
+2025-03-31 19:21:14,046 - INFO - Login Test Passed
+2025-03-31 19:21:14,109 - INFO - Browser Closed
+2025-03-31 19:21:15,842 - INFO - Browser laaunched
+2025-03-31 19:21:15,843 - INFO - Executing invalid login test
+2025-03-31 19:21:17,587 - INFO - Invalid login test Passed
+2025-03-31 19:21:17,648 - INFO - Browser Closed
+2025-03-31 19:21:24,601 - INFO - Browser laaunched
+2025-03-31 19:21:24,602 - INFO - executing existing user signup
+2025-03-31 19:21:26,369 - INFO - Browser Closed
+2025-03-31 19:28:12,461 - INFO - Browser laaunched
+2025-03-31 19:28:12,462 - INFO - Executing Login test
+2025-03-31 19:28:15,000 - INFO - Login Test Passed
+2025-03-31 19:28:15,062 - INFO - Browser Closed
+2025-03-31 19:28:16,668 - INFO - Browser laaunched
+2025-03-31 19:28:16,669 - INFO - Executing invalid login test
+2025-03-31 19:28:18,357 - INFO - Invalid login test Passed
+2025-03-31 19:28:18,418 - INFO - Browser Closed
+2025-03-31 19:28:19,786 - INFO - Browser laaunched
+2025-03-31 19:28:19,788 - INFO - executing existing user signup
+2025-03-31 19:28:21,546 - INFO - Browser Closed
+2025-03-31 19:29:13,741 - INFO - Browser laaunched
+2025-03-31 19:29:13,742 - INFO - Executing Login test
+2025-03-31 19:29:16,204 - INFO - Login Test Passed
+2025-03-31 19:29:16,265 - INFO - Browser Closed
+2025-03-31 19:29:17,811 - INFO - Browser laaunched
+2025-03-31 19:29:17,812 - INFO - Executing invalid login test
+2025-03-31 19:29:19,558 - INFO - Wrong password.
+2025-03-31 19:29:19,558 - INFO - Invalid login test Passed
+2025-03-31 19:29:19,619 - INFO - Browser Closed
+2025-03-31 19:29:21,375 - INFO - Browser laaunched
+2025-03-31 19:29:21,376 - INFO - executing existing user signup
+2025-03-31 19:29:23,193 - INFO - Browser Closed
+2025-03-31 19:30:00,394 - INFO - Browser laaunched
+2025-03-31 19:30:00,395 - INFO - Executing Login test
+2025-03-31 19:30:02,725 - INFO - Login Test Passed
+2025-03-31 19:30:02,786 - INFO - Browser Closed
+2025-03-31 19:30:04,511 - INFO - Browser laaunched
+2025-03-31 19:30:04,512 - INFO - Executing invalid login test
+2025-03-31 19:30:06,274 - INFO - Invalid login test Passed
+2025-03-31 19:30:06,334 - INFO - Browser Closed
+2025-03-31 19:30:08,182 - INFO - Browser laaunched
+2025-03-31 19:30:08,183 - INFO - executing existing user signup
+2025-03-31 19:30:09,887 - INFO - This user already exist.
+2025-03-31 19:30:09,951 - INFO - Browser Closed
+2025-03-31 19:32:03,631 - INFO - Browser laaunched
+2025-03-31 19:32:03,632 - INFO - Executing Login test
+2025-03-31 19:32:05,931 - INFO - Login Test Passed
+2025-03-31 19:32:05,993 - INFO - Browser Closed
+2025-03-31 19:32:07,289 - INFO - Browser laaunched
+2025-03-31 19:32:07,290 - INFO - Executing invalid login test
+2025-03-31 19:32:08,983 - INFO - Invalid login test Passed
+2025-03-31 19:32:09,044 - INFO - Browser Closed
+2025-03-31 19:32:10,808 - INFO - Browser laaunched
+2025-03-31 19:32:10,809 - INFO - executing existing user signup
+2025-03-31 19:32:12,523 - INFO - SignUp Existing User Executed Successfully
+2025-03-31 19:32:12,584 - INFO - Browser Closed
+2025-04-01 10:16:16,331 - INFO - Browser launched
+2025-04-01 10:16:16,332 - INFO - Executing Login test
+2025-04-01 10:16:22,354 - INFO - Login Test Passed
+2025-04-01 10:16:22,416 - INFO - Browser Closed
+2025-04-01 10:16:24,065 - INFO - Browser launched
+2025-04-01 10:16:24,066 - INFO - Executing invalid login test
+2025-04-01 10:16:25,775 - INFO - Invalid login test Passed
+2025-04-01 10:16:25,836 - INFO - Browser Closed
+2025-04-01 10:16:27,372 - INFO - Browser launched
+2025-04-01 10:16:27,373 - INFO - executing existing user signup
+2025-04-01 10:16:30,170 - INFO - SignUp Existing User Executed Successfully
+2025-04-01 10:16:30,233 - INFO - Browser Closed
+2025-04-01 10:17:54,199 - INFO - Browser launched
+2025-04-01 10:17:54,201 - INFO - Executing Login test
+2025-04-01 10:17:59,977 - INFO - Login Test Passed
+2025-04-01 10:18:00,038 - INFO - Browser Closed
+2025-04-01 10:18:01,635 - INFO - Browser launched
+2025-04-01 10:18:01,636 - INFO - Executing invalid login test
+2025-04-01 10:18:06,905 - INFO - Invalid login test Passed
+2025-04-01 10:18:06,967 - INFO - Browser Closed
+2025-04-01 10:18:08,524 - INFO - Browser launched
+2025-04-01 10:18:08,617 - INFO - Browser Closed
+2025-04-01 10:18:10,114 - INFO - Browser launched
+2025-04-01 10:18:10,115 - INFO - executing existing user signup
+2025-04-01 10:18:11,806 - INFO - SignUp Existing User Executed Successfully
+2025-04-01 10:18:11,867 - INFO - Browser Closed
+2025-04-01 10:18:44,843 - INFO - Browser launched
+2025-04-01 10:18:44,844 - INFO - Executing Login test
+2025-04-01 10:18:47,465 - INFO - Login Test Passed
+2025-04-01 10:18:47,525 - INFO - Browser Closed
+2025-04-01 10:18:48,886 - INFO - Browser launched
+2025-04-01 10:18:48,888 - INFO - Executing invalid login test
+2025-04-01 10:18:50,584 - INFO - Invalid login test Passed
+2025-04-01 10:18:50,643 - INFO - Browser Closed
+2025-04-01 10:18:52,208 - INFO - Browser launched
+2025-04-01 10:18:52,209 - INFO - Mobile product check exection started
+2025-04-01 10:18:55,727 - INFO - Browser Closed
+2025-04-01 10:18:57,048 - INFO - Browser launched
+2025-04-01 10:18:57,049 - INFO - executing existing user signup
+2025-04-01 10:18:58,738 - INFO - SignUp Existing User Executed Successfully
+2025-04-01 10:18:58,798 - INFO - Browser Closed
+2025-04-01 10:20:00,278 - INFO - Browser launched
+2025-04-01 10:20:00,280 - INFO - Executing Login test
+2025-04-01 10:20:08,143 - INFO - Login Test Passed
+2025-04-01 10:20:08,206 - INFO - Browser Closed
+2025-04-01 10:20:09,923 - INFO - Browser launched
+2025-04-01 10:20:09,924 - INFO - Executing invalid login test
+2025-04-01 10:20:11,628 - INFO - Invalid login test Passed
+2025-04-01 10:20:11,688 - INFO - Browser Closed
+2025-04-01 10:20:12,880 - INFO - Browser launched
+2025-04-01 10:20:12,881 - INFO - Mobile product check exection started
+2025-04-01 10:20:15,178 - INFO - Browser Closed
+2025-04-01 10:20:16,526 - INFO - Browser launched
+2025-04-01 10:20:16,527 - INFO - executing existing user signup
+2025-04-01 10:20:19,282 - INFO - SignUp Existing User Executed Successfully
+2025-04-01 10:20:19,345 - INFO - Browser Closed
+2025-04-01 10:22:28,598 - INFO - Browser launched
+2025-04-01 10:22:28,599 - INFO - Executing Login test
+2025-04-01 10:22:31,533 - INFO - Login Test Passed
+2025-04-01 10:22:31,594 - INFO - Browser Closed
+2025-04-01 10:22:33,278 - INFO - Browser launched
+2025-04-01 10:22:33,279 - INFO - Executing invalid login test
+2025-04-01 10:22:35,983 - INFO - Invalid login test Passed
+2025-04-01 10:22:36,044 - INFO - Browser Closed
+2025-04-01 10:22:37,639 - INFO - Browser launched
+2025-04-01 10:22:37,640 - INFO - Mobile product check exection started
+2025-04-01 10:22:44,030 - INFO - Samsung galaxy s6
+2025-04-01 10:22:44,030 - INFO - $360
+2025-04-01 10:22:44,112 - INFO - Browser Closed
+2025-04-01 10:22:45,811 - INFO - Browser launched
+2025-04-01 10:22:45,812 - INFO - executing existing user signup
+2025-04-01 10:22:47,561 - INFO - SignUp Existing User Executed Successfully
+2025-04-01 10:22:47,622 - INFO - Browser Closed
+2025-04-01 10:27:11,034 - INFO - Browser launched
+2025-04-01 10:27:11,035 - INFO - Executing Login test
+2025-04-01 10:27:15,351 - INFO - Login Test Passed
+2025-04-01 10:27:15,414 - INFO - Browser Closed
+2025-04-01 10:27:16,501 - INFO - Browser launched
+2025-04-01 10:27:16,502 - INFO - Executing invalid login test
+2025-04-01 10:27:18,219 - INFO - Invalid login test Passed
+2025-04-01 10:27:18,279 - INFO - Browser Closed
+2025-04-01 10:27:19,374 - INFO - Browser launched
+2025-04-01 10:27:19,375 - INFO - Mobile product check exection started
+2025-04-01 10:27:22,136 - INFO - Samsung galaxy s6
+2025-04-01 10:27:22,137 - INFO - $360
+2025-04-01 10:27:22,227 - INFO - Browser Closed
+2025-04-01 10:27:23,352 - INFO - Browser launched
+2025-04-01 10:27:23,353 - INFO - executing existing user signup
+2025-04-01 10:27:25,574 - INFO - SignUp Existing User Executed Successfully
+2025-04-01 10:27:25,636 - INFO - Browser Closed
+2025-04-01 10:30:20,689 - INFO - Browser launched
+2025-04-01 10:30:20,690 - INFO - Executing Login test
+2025-04-01 10:30:24,822 - INFO - Login Test Passed
+2025-04-01 10:30:24,883 - INFO - Browser Closed
+2025-04-01 10:30:25,983 - INFO - Browser launched
+2025-04-01 10:30:25,984 - INFO - Executing invalid login test
+2025-04-01 10:30:27,675 - INFO - Invalid login test Passed
+2025-04-01 10:30:27,737 - INFO - Browser Closed
+2025-04-01 10:30:29,074 - INFO - Browser launched
+2025-04-01 10:30:29,075 - INFO - Mobile product check exection started
+2025-04-01 10:30:33,432 - INFO - Samsung galaxy s6
+2025-04-01 10:30:33,432 - INFO - $360
+2025-04-01 10:30:33,439 - INFO - https://www.demoblaze.com/prod.html?idp_=1
+2025-04-01 10:30:33,463 - INFO - {'verify_mobile_name': <selenium.webdriver.remote.webelement.WebElement (session="573349b7b91dde3d4f5e54f3bdd18fc0", element="f.10B4E71FA20CD01F653D568A003259E6.d.36B3AD1FA6969814CF926E92763E42AA.e.151")>, 'verify_mobile_price': <selenium.webdriver.remote.webelement.WebElement (session="573349b7b91dde3d4f5e54f3bdd18fc0", element="f.10B4E71FA20CD01F653D568A003259E6.d.36B3AD1FA6969814CF926E92763E42AA.e.152")>}
+2025-04-01 10:30:33,526 - INFO - Browser Closed
+2025-04-01 10:30:34,824 - INFO - Browser launched
+2025-04-01 10:30:34,825 - INFO - executing existing user signup
+2025-04-01 10:30:36,528 - INFO - SignUp Existing User Executed Successfully
+2025-04-01 10:30:36,592 - INFO - Browser Closed
+2025-04-01 11:07:37,624 - INFO - Browser launched
+2025-04-01 11:07:37,625 - INFO - Executing Login test
+2025-04-01 11:07:41,258 - INFO - Login Test Passed
+2025-04-01 11:07:41,319 - INFO - Browser Closed
+2025-04-01 11:07:42,587 - INFO - Browser launched
+2025-04-01 11:07:42,588 - INFO - Executing invalid login test
+2025-04-01 11:07:44,393 - INFO - Invalid login test Passed
+2025-04-01 11:07:44,454 - INFO - Browser Closed
+2025-04-01 11:07:50,926 - INFO - Browser launched
+2025-04-01 11:07:50,927 - INFO - Mobile product check exection started
+2025-04-01 11:07:54,732 - INFO - Samsung galaxy s6
+2025-04-01 11:07:54,733 - INFO - $360
+2025-04-01 11:07:54,736 - INFO - https://www.demoblaze.com/prod.html?idp_=1
+2025-04-01 11:07:54,768 - INFO - {'verify_mobile_name': 'Samsung galaxy s6', 'verify_mobile_price': '$360 *includes tax'}
+2025-04-01 11:07:54,851 - INFO - Browser Closed
+2025-04-01 11:07:56,588 - INFO - Browser launched
+2025-04-01 11:07:56,590 - INFO - executing existing user signup
+2025-04-01 11:07:59,298 - INFO - SignUp Existing User Executed Successfully
+2025-04-01 11:07:59,358 - INFO - Browser Closed
+2025-04-01 11:08:32,907 - INFO - Browser launched
+2025-04-01 11:08:32,908 - INFO - Executing Login test
+2025-04-01 11:08:35,200 - INFO - Login Test Passed
+2025-04-01 11:08:35,267 - INFO - Browser Closed
+2025-04-01 11:08:36,750 - INFO - Browser launched
+2025-04-01 11:08:36,751 - INFO - Executing invalid login test
+2025-04-01 11:08:38,970 - INFO - Invalid login test Passed
+2025-04-01 11:08:39,030 - INFO - Browser Closed
+2025-04-01 11:08:40,378 - INFO - Browser launched
+2025-04-01 11:08:40,379 - INFO - Mobile product check exection started
+2025-04-01 11:08:43,101 - INFO - Samsung galaxy s6
+2025-04-01 11:08:43,101 - INFO - $360
+2025-04-01 11:08:43,108 - INFO - https://www.demoblaze.com/prod.html?idp_=1
+2025-04-01 11:08:43,147 - INFO - {'verify_mobile_name': 'Samsung galaxy s6', 'verify_mobile_price': '$360 *includes tax'}
+2025-04-01 11:08:43,208 - INFO - Browser Closed
+2025-04-01 11:08:44,717 - INFO - Browser launched
+2025-04-01 11:08:44,718 - INFO - executing existing user signup
+2025-04-01 11:08:49,541 - INFO - SignUp Existing User Executed Successfully
+2025-04-01 11:08:49,602 - INFO - Browser Closed
